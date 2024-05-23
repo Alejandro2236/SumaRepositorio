@@ -18,5 +18,10 @@
   "devDependencies": {
     "husky": "^9.0.11",
     "jasmine": "^5.1.0"
-  }
+  },
+  "description": "",
+  "main": "app.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
